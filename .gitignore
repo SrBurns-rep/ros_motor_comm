@@ -1,0 +1,8 @@
+# untracked files
+*.bin
+*.hex
+*.elf
+
+# untracked folders
+.vscode
+.clangd
